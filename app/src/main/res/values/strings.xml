@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aldar Jose</string>
+    <string-array name="problem_types">
+        <item>Roads and Signs</item>
+        <item>Sidewalks and Curbs</item>
+        <item>Trash</item>
+        <item>Buildings</item>
+        <item>Government officials and Police</item>
+        <item>Government Property</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="country_names">
+        <item>US</item>
+    </string-array>
+
+    <string-array name="country_codes">
+        <item>+1</item>
+    </string-array>
+
+</resources>

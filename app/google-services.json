@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "548967206600",
+    "firebase_url": "https://shilo-6b82e.firebaseio.com",
+    "project_id": "shilo-6b82e",
+    "storage_bucket": "shilo-6b82e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548967206600:android:4b64726b1d7a7b57",
+        "android_client_info": {
+          "package_name": "com.aldarjose.shilo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548967206600-1n45evdp24cut1bch4v881uigjlgse5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQUUdw4Yl2cmJ1FOkK-vQTSzbnlqdA9PM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
